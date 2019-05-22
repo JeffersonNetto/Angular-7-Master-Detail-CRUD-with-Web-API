@@ -1,0 +1,14 @@
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\marcoroberto\source\repos\Angular-7-Master-Detail-CRUD-with-Web-API\WebApiCore\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
